@@ -1,0 +1,11 @@
+npx create-react-app redux-proyecto
+npm start
+npm install @reduxjs/toolkit react-redux
+en src creas app y dentro store.js
+cambiamos index.js
+redux devtools extension
+una pestaña que se llama redux
+npm i react-router-dom
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+cambiamos el tailwind config y el index.css

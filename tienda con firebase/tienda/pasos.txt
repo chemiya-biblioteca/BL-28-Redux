@@ -1,0 +1,12 @@
+npx create-react-app tienda
+npm install redux react-redux
+npm start
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install @reduxjs/toolkit
+
+crear proyecto firebase
+ir a realtimedatabase
+crear database en modo bloqueado
+ir a reglas y ponerlas a true
+cogemos el url y le ponemos en react
